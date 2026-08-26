@@ -1,0 +1,1198 @@
+{
+  "recipes": [
+    {
+      "name": "Harmony Draught",
+      "tier": 7,
+      "ingredients": [
+        {
+          "name": "Fury Draught",
+          "quantity": 10
+        },
+        {
+          "name": "Adaptation Draught",
+          "quantity": 10
+        },
+        {
+          "name": "Potential Draught",
+          "quantity": 10
+        },
+        {
+          "name": "Corruption Draught",
+          "quantity": 10
+        },
+        {
+          "name": "Berserk Draught",
+          "quantity": 10
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Fury Draught",
+      "tier": 6,
+      "ingredients": [
+        {
+          "name": "Elixir of Fury",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Frenzy",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Concentration",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Destruction",
+          "quantity": 30
+        },
+        {
+          "name": "Spellbound Catalyst",
+          "quantity": 10
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Adaptation Draught",
+      "tier": 6,
+      "ingredients": [
+        {
+          "name": "Defense Elixir",
+          "quantity": 30
+        },
+        {
+          "name": "Helix Elixir",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Life",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Endurance",
+          "quantity": 30
+        },
+        {
+          "name": "Spellbound Catalyst",
+          "quantity": 10
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Potential Draught",
+      "tier": 6,
+      "ingredients": [
+        {
+          "name": "Elixir of Wind",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Spells",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Shock",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Swiftness",
+          "quantity": 30
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Corruption Draught",
+      "tier": 6,
+      "ingredients": [
+        {
+          "name": "Elixir of Perforation",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Death",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Draining",
+          "quantity": 30
+        },
+        {
+          "name": "Grim Reaper\u0027s Elixir",
+          "quantity": 30
+        },
+        {
+          "name": "Spellbound Catalyst",
+          "quantity": 10
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Berserk Draught",
+      "tier": 6,
+      "ingredients": [
+        {
+          "name": "Elixir of Assassination",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Detection",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Carnage",
+          "quantity": 30
+        },
+        {
+          "name": "Elixir of Sky",
+          "quantity": 30
+        },
+        {
+          "name": "Spellbound Catalyst",
+          "quantity": 10
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Fury",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Dwarf Mushroom",
+          "quantity": 4
+        },
+        {
+          "name": "Ash Sap",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 4",
+          "quantity": 4
+        },
+        {
+          "name": "Purified Water",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Frenzy",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Regeneration",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 5
+        },
+        {
+          "name": "Cedar Sap",
+          "quantity": 5
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 3
+        },
+        {
+          "name": "Ghost Mushroom",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Concentration",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Cloud Mushroom",
+          "quantity": 3
+        },
+        {
+          "name": "Blood Group 4",
+          "quantity": 3
+        },
+        {
+          "name": "Weeds",
+          "quantity": 8
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Destruction",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Storms",
+          "quantity": 1
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 3
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 5
+        },
+        {
+          "name": "Powder of Flame",
+          "quantity": 5
+        },
+        {
+          "name": "Snowfield Cedar Sap",
+          "quantity": 7
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Defense Elixir",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Ash Sap",
+          "quantity": 6
+        },
+        {
+          "name": "Blood Group 2",
+          "quantity": 5
+        },
+        {
+          "name": "Purified Water",
+          "quantity": 3
+        },
+        {
+          "name": "Elixir of Edania",
+          "quantity": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Helix Elixir",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Thuja Sap",
+          "quantity": 6
+        },
+        {
+          "name": "Monk\u0027s Branch",
+          "quantity": 3
+        },
+        {
+          "name": "Clown\u0027s Blood",
+          "quantity": 2
+        },
+        {
+          "name": "Powder of Flame",
+          "quantity": 2
+        },
+        {
+          "name": "Purified Water",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Life",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Silver Azalea",
+          "quantity": 3
+        },
+        {
+          "name": "Blood Group 3",
+          "quantity": 5
+        },
+        {
+          "name": "HP Potion (Small)",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Endurance",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Dwarf Mushroom",
+          "quantity": 2
+        },
+        {
+          "name": "Birch Sap",
+          "quantity": 5
+        },
+        {
+          "name": "Blood Group 4",
+          "quantity": 4
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Wind",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Wise Man\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Fortune Teller Mushroom",
+          "quantity": 5
+        },
+        {
+          "name": "Pine Sap",
+          "quantity": 5
+        },
+        {
+          "name": "Powder of Darkness",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Spells",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Tyrant\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Fire Flake Flower",
+          "quantity": 5
+        },
+        {
+          "name": "Maple Sap",
+          "quantity": 3
+        },
+        {
+          "name": "Powder of Darkness",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Shock",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Clown\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Tiger Mushroom",
+          "quantity": 5
+        },
+        {
+          "name": "Cedar Sap",
+          "quantity": 7
+        },
+        {
+          "name": "Powder of Time",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Swiftness",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Legendary Beast\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Arrow Mushroom",
+          "quantity": 5
+        },
+        {
+          "name": "Birch Sap",
+          "quantity": 5
+        },
+        {
+          "name": "Powder of Darkness",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Perforation",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Corruption",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 4
+        },
+        {
+          "name": "Bluffer Mushroom",
+          "quantity": 5
+        },
+        {
+          "name": "Pine Sap",
+          "quantity": 5
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Death",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Tranquility",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 6
+        },
+        {
+          "name": "Ancient Mushroom",
+          "quantity": 2
+        },
+        {
+          "name": "Ash Sap",
+          "quantity": 7
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Draining",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Fortitude",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 4
+        },
+        {
+          "name": "Hump Mushroom",
+          "quantity": 3
+        },
+        {
+          "name": "Birch Sap",
+          "quantity": 4
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Grim Reaper\u0027s Elixir",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Fortitude",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 4
+        },
+        {
+          "name": "Sky Mushroom",
+          "quantity": 2
+        },
+        {
+          "name": "Monk\u0027s Branch",
+          "quantity": 2
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 4
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Assassination",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Regeneration",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 5
+        },
+        {
+          "name": "Amanita Mushroom",
+          "quantity": 4
+        },
+        {
+          "name": "Red Tree Lump",
+          "quantity": 2
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Detection",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Storms",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 6
+        },
+        {
+          "name": "Truffle Mushroom",
+          "quantity": 3
+        },
+        {
+          "name": "Old Tree Bark",
+          "quantity": 2
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Carnage",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Corruption",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 7
+        },
+        {
+          "name": "Tiger Mushroom",
+          "quantity": 2
+        },
+        {
+          "name": "Spirit\u0027s Leaf",
+          "quantity": 2
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 3
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Sky",
+      "tier": 5,
+      "ingredients": [
+        {
+          "name": "Oil of Tranquility",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 6
+        },
+        {
+          "name": "Emperor Mushroom",
+          "quantity": 1
+        },
+        {
+          "name": "Bloody Tree Knot",
+          "quantity": 2
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 4
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oil of Regeneration",
+      "tier": 4,
+      "ingredients": [
+        {
+          "name": "Legendary Beast\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Red Tree Lump",
+          "quantity": 1
+        },
+        {
+          "name": "Fruit of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Rifts",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oil of Storms",
+      "tier": 4,
+      "ingredients": [
+        {
+          "name": "Tyrant\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Old Tree Bark",
+          "quantity": 1
+        },
+        {
+          "name": "Fruit of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Time",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oil of Corruption",
+      "tier": 4,
+      "ingredients": [
+        {
+          "name": "Sinner\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Spirit\u0027s Leaf",
+          "quantity": 1
+        },
+        {
+          "name": "Fruit of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Darkness",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oil of Tranquility",
+      "tier": 4,
+      "ingredients": [
+        {
+          "name": "Wise Man\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Bloody Tree Knot",
+          "quantity": 1
+        },
+        {
+          "name": "Fruit of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Earth",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Oil of Fortitude",
+      "tier": 4,
+      "ingredients": [
+        {
+          "name": "Clown\u0027s Blood",
+          "quantity": 1
+        },
+        {
+          "name": "Monk\u0027s Branch",
+          "quantity": 1
+        },
+        {
+          "name": "Fruit of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Flame",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Legendary Beast\u0027s Blood",
+      "tier": 3,
+      "ingredients": [
+        {
+          "name": "Spirit\u0027s Leaf",
+          "quantity": 1
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 5",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Tyrant\u0027s Blood",
+      "tier": 3,
+      "ingredients": [
+        {
+          "name": "Monk\u0027s Branch",
+          "quantity": 1
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Pure Powder Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 4",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Clown\u0027s Blood",
+      "tier": 3,
+      "ingredients": [
+        {
+          "name": "Spirit\u0027s Leaf",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Darkness",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 1",
+          "quantity": 2
+        },
+        {
+          "name": "Elixir of Edania",
+          "quantity": 0
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Wise Man\u0027s Blood",
+      "tier": 3,
+      "ingredients": [
+        {
+          "name": "Monk\u0027s Branch",
+          "quantity": 1
+        },
+        {
+          "name": "Trace of Nature",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 3",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Sinner\u0027s Blood",
+      "tier": 3,
+      "ingredients": [
+        {
+          "name": "Bloody Tree Knot",
+          "quantity": 1
+        },
+        {
+          "name": "Powder of Flame",
+          "quantity": 1
+        },
+        {
+          "name": "Clear Liquid Reagent",
+          "quantity": 1
+        },
+        {
+          "name": "Blood Group 2",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Pure Powder Reagent",
+      "tier": 2,
+      "ingredients": [
+        {
+          "name": "Weeds",
+          "quantity": 1
+        },
+        {
+          "name": "Silver Azalea",
+          "quantity": 1
+        },
+        {
+          "name": "Sugar",
+          "quantity": 1
+        },
+        {
+          "name": "Purified Water",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Clear Liquid Reagent",
+      "tier": 2,
+      "ingredients": [
+        {
+          "name": "Sunrise Herb",
+          "quantity": 1
+        },
+        {
+          "name": "Salt",
+          "quantity": 1
+        },
+        {
+          "name": "Purified Water",
+          "quantity": 1
+        },
+        {
+          "name": "Weeds",
+          "quantity": 1
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "name": "Elixir of Edania",
+      "tier": 2,
+      "ingredients": [
+        {
+          "name": "Sinner\u0027s Blood",
+          "quantity": 2
+        }
+      ],
+      "notes": ""
+    }
+  ],
+  "rawIngredients": [
+    {
+      "name": "Amanita Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Ancient Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Arrow Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Ash Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Birch Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Blood Group 1",
+      "tier": 1,
+      "notes": "Wolf Blood\r\nFlamingo Blood\r\nRhino Blood\r\nCheetah Dragon Blood"
+    },
+    {
+      "name": "Blood Group 2",
+      "tier": 1,
+      "notes": "Deer Blood\r\nSheep Blood\r\nPig Blood\r\nWaragon Blood\r\nOx Blood\r\nLlama Blood"
+    },
+    {
+      "name": "Blood Group 3",
+      "tier": 1,
+      "notes": "Weasel Blood\r\nFox Blood\r\nRaccoon Blood\r\nMarmot Blood\r\nScorpion Blood"
+    },
+    {
+      "name": "Blood Group 4",
+      "tier": 1,
+      "notes": "Troll Blood\r\nBear Blood\r\nOgre Blood\r\nLion Blood\r\nYak Blood\r\nTiger Blood"
+    },
+    {
+      "name": "Blood Group 5",
+      "tier": 1,
+      "notes": "Worm Blood\r\nLizard Blood\r\nBat Blood\r\nKuku Bird Blood\r\nCobra Blood"
+    },
+    {
+      "name": "Bloody Tree Knot",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Bluffer Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Cedar Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Cloud Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Dwarf Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Emperor Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Fire Flake Flower",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Fortune Teller Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Fruit of Nature",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Ghost Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "HP Potion (Small)",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Hump Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Maple Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Monk\u0027s Branch",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Old Tree Bark",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Pine Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Powder of Darkness",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Powder of Earth",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Powder of Flame",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Powder of Rifts",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Powder of Time",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Purified Water",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Red Tree Lump",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Silver Azalea",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Sky Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Snowfield Cedar Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Spellbound Catalyst",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Spirit\u0027s Leaf",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Sunrise Herb",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Thuja Sap",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Tiger Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Trace of Nature",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Truffle Mushroom",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Weeds",
+      "tier": 1,
+      "notes": ""
+    },
+    {
+      "name": "Caphras Tree Sap",
+      "tier": 1,
+      "notes": ""
+    }
+  ]
+}

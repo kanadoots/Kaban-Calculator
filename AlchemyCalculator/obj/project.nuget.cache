@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xucTrt0tFFE=",
+  "success": true,
+  "projectFilePath": "B:\\GitHub Repos\\KabanCalculator\\AlchemyCalculator\\KabanCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.30\\microsoft.netcore.app.runtime.win-arm64.8.0.30.nupkg.sha512",
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.30\\microsoft.aspnetcore.app.runtime.win-x64.8.0.30.nupkg.sha512",
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.30\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.30.nupkg.sha512",
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.30\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.30.nupkg.sha512",
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.30\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.30.nupkg.sha512",
+    "C:\\Users\\Kana\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.30\\microsoft.netcore.app.runtime.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
